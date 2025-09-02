@@ -1,0 +1,12 @@
+package-lock.json
+readme.md
+restart.log
+email-checker/config copy.json
+email-checker/config.json
+email-checker/logs/email_checker.log
+whatsapp-bot/logs/history.log
+whatsapp-bot/node_modules/.package-lock.json
+node_modules/
+logs/
+uploads/
+session/
